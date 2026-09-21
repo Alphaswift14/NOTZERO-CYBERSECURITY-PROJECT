@@ -1,0 +1,142 @@
+PROJECT 2 — Threats and Vulnerability Assessment of a Residential Infrastructure
+1. Different Domains in the Residence
+The residence can be divided into these domains:
+1. Physical/Security Domain – doors, gates, windows, fence and locks.
+2. Network/Internet Domain – Wi-Fi router, internet connection and connected devices.
+3. Electrical/Power Domain – electricity supply, generator, inverter and extension cables.
+4. Smart/Home Device Domain – smart TV, phones, laptops and other connected devices.
+5. Environmental Domain – water, cooking gas, fire hazards and weather-related risks.
+6. Human/Administrative Domain – residents, visitors, passwords, rules and security practices.
+2. Possible Threats
+Possible threats to the residence include:
+- Burglary and theft
+- Unauthorized access
+- Fire outbreak
+- Gas leakage
+- Electrical shock
+- Power surge
+- Internet/Wi-Fi attack
+- Malware and phishing
+- Password theft
+- Device theft
+- Privacy invasion
+- Accidental damage by residents or visitors
+- Water leakage/flooding
+- Extreme weather
+- Social engineering
+3 & 4. Vulnerabilities Per Domain and Their Categories
+Domain	Vulnerability	Category
+Physical/Security	Some windows may not have strong locks	Physical
+Physical/Security	Keys can be lost or copied	Physical
+Physical/Security	Visitors may be allowed into the compound without proper verification	Administrative
+Network/Internet	Weak or reused Wi-Fi password	Technical
+Network/Internet	Router firmware may not be regularly updated	Technical
+Network/Internet	Guest devices may use the same network as personal devices	Technical
+Electrical/Power	Overloaded extension sockets	Physical
+Electrical/Power	Old or damaged electrical cables	Physical
+Electrical/Power	Lack of regular electrical inspection	Administrative
+Smart/Home Devices	Devices may use default passwords	Technical
+Smart/Home Devices	Some devices may not receive security updates	Technical
+Smart/Home Devices	Phones/laptops may be left unlocked	Administrative
+Environmental	Cooking gas can leak if the cylinder or regulator is faulty	Physical
+Environmental	Flammable materials may be stored near heat sources	Physical
+Environmental	Fire extinguisher may not be readily available	Physical
+Human/Administrative	Residents may share passwords	Administrative
+Human/Administrative	Lack of security awareness	Administrative
+Human/Administrative	Important information may be disclosed to strangers	Administrative
+
+
+5 & 6. Risks and Risk Categories
+Critical Risks
+Domain	Threat	Vulnerability	Risk
+Physical/Security	Burglary	Weak window/door security	Critical
+Network	Cyberattack	Weak Wi-Fi password	Critical
+Electrical	Electrical fire	Damaged/overloaded cables	Critical
+Environmental	Fire/Gas explosion	Gas leakage or poor storage	Critical
+
+
+Major Risks
+Domain	Threat	Vulnerability	Risk
+Smart Devices	Unauthorized access	Default/weak passwords	Major
+Network	Malware	Unpatched devices	Major
+Human	Social engineering	Lack of security awareness	Major
+Physical	Theft	Poor visitor/access control	Major
+Environmental	Water damage	Leaking pipes/tank	Major
+
+
+Minor Risks
+Domain	Threat	Vulnerability	Risk
+Human	Accidental disclosure	Careless sharing of information	Minor
+Network	Unauthorized guest access	No separate guest network	Minor
+Physical	Loss of keys	Keys not properly controlled	Minor
+Smart Devices	Privacy exposure	Devices left unlocked	Minor
+
+
+7. Mitigation Measures for Critical and Major Risks
+Critical Risks
+1. Burglary
+- Install strong locks on doors and windows.
+- Use security gates and perimeter fencing.
+- Install CCTV cameras where possible.
+- Keep valuable items away from visible areas.
+- Restrict access to authorized people.
+2. Wi-Fi/Cyberattack
+- Use a strong and unique Wi-Fi password.
+- Change the router's default administrator password.
+- Enable WPA2/WPA3 security.
+- Keep the router firmware updated.
+- Create a separate guest network.
+3. Electrical Fire
+- Replace damaged cables immediately.
+- Avoid overloading extension sockets.
+- Use quality electrical equipment.
+- Carry out periodic electrical inspections.
+- Switch off unnecessary appliances when leaving the house.
+4. Gas/Fire Hazard
+- Check the gas cylinder, hose and regulator regularly.
+- Keep gas cylinders away from direct heat.
+- Store flammable materials safely.
+- Install smoke/fire alarms.
+- Keep a suitable fire extinguisher accessible.
+Major Risks
+1. Smart Device Attacks
+- Change default passwords.
+- Enable two-factor authentication where available.
+- Update device software regularly.
+- Remove unknown devices from accounts.
+2. Malware
+- Keep laptops and phones updated.
+- Use reputable antivirus/security software.
+- Avoid suspicious links and downloads.
+- Do not install applications from untrusted sources.
+3. Social Engineering
+- Train residents not to disclose passwords or sensitive information.
+- Verify unexpected calls and messages.
+- Avoid sharing information about the home's security arrangements with strangers.
+4. Unauthorized Physical Access
+- Verify visitors before allowing access.
+- Keep important keys secure.
+- Do not leave doors or gates unlocked unnecessarily.
+5. Water Damage
+- Inspect pipes, taps and water tanks regularly.
+- Repair leaks immediately.
+- Know where the main water shut-off valve is located.
+Conclusion
+The assessment shows that a residence contains physical, technical, environmental and human security risks. The most serious risks should be addressed first by improving physical security, securing network devices, maintaining electrical and gas systems, and educating residents about safe security practices.
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
